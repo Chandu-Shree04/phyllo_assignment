@@ -1,22 +1,23 @@
-# phyllo_assignment
+# Product Analyst Internship — Take-Home Assignment
 
 **Candidate:** Chandu Shree  
-**Email:** chandu.shree230204@gmail.com
+**Email:** [Your Email Address]
 
-## About This Submission
+## Overview
 
-This repository contains my submission for the **Phyllo Product Analyst Internship assignment**.
+This repository contains my submission for the **Phyllo Product Analyst Internship** take-home assignment.
 
-The assignment focuses on analyzing a fictional Meridian Orders API and covers:
+The exercise involved investigating a fictional orders API by comparing its documented contract with captured API responses, identifying data-quality and integration issues, evaluating their business impact, and calculating revenue from the available data.
 
-- Identifying inconsistencies between API documentation and actual responses
-- Evaluating the business impact of API/data-quality issues
-- Calculating revenue while clearly documenting assumptions and ambiguities
-- Communicating findings to a finance stakeholder
-- Writing an engineer-ready bug report for the most critical API issue
+### What’s Included
 
-The analysis is presented in the accompanying assignment document, with a focus on **structured problem-solving, data quality, business impact, and clear communication**.
+- **API Contract Analysis** — Identified and evaluated inconsistencies between the API documentation and actual responses.
+- **Revenue Analysis** — Calculated revenue using an explicitly stated definition and documented assumptions where the available data was ambiguous.
+- **Stakeholder Communication** — Drafted a concise response to a finance stakeholder explaining the reconciliation issue.
+- **Engineering Bug Report** — Documented the most significant API issue with reproduction steps, expected vs. actual behavior, and business impact.
 
-Thank you for taking the time to review my submission!
+The analysis focuses on **structured thinking, attention to data quality, business context, and clear communication of uncertainty**.
+
+Thank you for reviewing my submission.
 
 **Chandu Shree**
