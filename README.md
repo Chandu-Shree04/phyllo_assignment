@@ -1,7 +1,7 @@
 # Product Analyst Internship — Take-Home Assignment
 
 **Candidate:** Chandu Shree  
-**Email:** [Your Email Address]
+**Email:** chandu.shree230204@gmail.com 
 
 ## Overview
 
